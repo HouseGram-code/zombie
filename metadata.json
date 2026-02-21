@@ -1,0 +1,5 @@
+{
+  "name": "3D First Person Game",
+  "description": "A 3D game with first-person movement",
+  "requestFramePermissions": []
+}
